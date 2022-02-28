@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Words in season</title>
+            <author>Swinton, John, 1621?-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94163</idno>
+            <idno type="STC">Wing S6289</idno>
+            <idno type="STC">ESTC R42615</idno>
+            <idno type="EEBO-CITATION">36282456</idno>
+            <idno type="OCLC">ocm 36282456</idno>
+            <idno type="VID">150304</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94163)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150304)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2240:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Words in season</title>
+                  <author>Swinton, John, 1621?-1679.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>The various parts signed "John Suintoune" and "J.S.", and dated  "... the 7th month, 63."</note>
+                  <note>Place of publication from Wing 2nd. ed.</note>
+                  <note>Reproduction of original in the Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Witness bearing (Christianity) --  Quaker authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:150304:1" rendition="simple:additions"/>
+            <div type="part">
+               <head>Words in Seaſon.</head>
+               <p>DO the Mountains ſwell? do the Seas rage? then the Call, the proper Language of this Day is the more to all the Sincere in heart to be more ſincere; to all the Valiant, to be more valiant; to all the Noble, to be more noble; to all the Couragious, to be more couragious; to all the Faith<g ref="char:EOLhyphen"/>ful, to be more faithful; to all the Single-hearted, to be more ſingle; to all the Holy, Pure, Spotleſs, Harm<g ref="char:EOLhyphen"/>leſs, Innocent, to be ſo ſtill, and not to come under the unjuſt, unrighteous oppreſſive Spirit: for the Righte<g ref="char:EOLhyphen"/>ous are, will be, bold as a Lyon in the evil day, moſt e<g ref="char:EOLhyphen"/>ſpecially: And who ſhrink, come under in this Day, rottenneſs will, ſhall, come as a flood, as an armed man. And let him that will be filthy in this Day, be filthy ſtill; nay, it muſt be ſo, it cannot be otherwiſe: for the Day of <hi>diſcriminating</hi> is come; the Day of <hi>gathering</hi> is come, every thing to its own now muſt come, no halfing, no midſing in this of all the dayes that ever was.</p>
+               <p>Oh dear Lambs all! this is not an hour to loſe ground; the more oppreſt, the ſtiffer, ſaith my Life, ſhining forth more and more bright unto the perfect Day, and yet all the ſame, not one other Diſpenſation, I ſay.</p>
+               <closer>
+                  <signed>J. S.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="2" facs="tcp:150304:2"/>
+               <p>ALl you who ſpeak of, gaze after a higher Diſpen<g ref="char:EOLhyphen"/>ſation, ſtill deſpiſing, neglecting the day of ſmall things in the little contemtible ſeed, wondring and per<g ref="char:EOLhyphen"/>riſhing while your minds are abroad, neither knowing what you ſay, nor whereof you affirm. Behold! thus ſaith the Lord God, ye deſpiſers, wonderers, and per<g ref="char:EOLhyphen"/>riſhers, <hi>I do work a work in this day, yea, I have wrought it, which your eyes have ſeen, though you perceive, under<g ref="char:EOLhyphen"/>ſtand not, your minds being above that in which you can on<g ref="char:EOLhyphen"/>ly ſee and underſtand, in which the higheſt of all Diſpenſa<g ref="char:EOLhyphen"/>tions, and loweſt alſo that are trueſt, only are and ever were.</hi> Let him that readeth underſtand; and let the gazers, wonderers, deſpiſers and periſhers, reel and ſtagger, and fall backward, and never riſe again.</p>
+               <closer>
+                  <dateline>
+                     <date>25th <hi>of the</hi> 6th <hi>Month,</hi> 63.</date>
+                  </dateline>
+                  <signed>J. S.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>To all who in this day ſpeak of the Diſpenſation of Love to ſwallow up all others.</head>
+               <p>BLeſſed, bleſſed are ſuch if they know what they ſay, and whereof they affirm, and be found in it in their own meaſure, and therein abide, not intru<g ref="char:EOLhyphen"/>ding into things they have not ſeen, holding faſt the Head, the meaſure of the Manifeſtation of Life in the particular; and ſo in union with the Life, the Love; the Life that is Love it ſelf, having gone thorow the
+<pb n="3" facs="tcp:150304:2"/> briers and thorns in the <hi>particular,</hi> having ſubjected every thought and ſpirit that is contrary to it ſelf; ſub<g ref="char:EOLhyphen"/>jected every thought and imagination in the <hi>particular,</hi> even all the ſwelling thoughts and imaginations of the things of God, out of, above the Seed, the Life, the Love; yea, the ſwelling imaginations, comprehenſions, imaginings, notions, concerning Love it ſelf, in the lofty, airy, iching mind, that muſt die and come down, being puft up of a fleſhly mind, intruding into things it hath not ſeen, betraying the Son of God, the Life, the Love, the Meekneſs, Patience, the Long-ſuffering, the Forbearance, with a kiſs of fained airy words, in a vo<g ref="char:EOLhyphen"/>luntary humility, a worſhiping of Angels, worſhiping the works, the gravings of their own hands, imagi<g ref="char:EOLhyphen"/>nations. Oh that this were ſeen, or could be under<g ref="char:EOLhyphen"/>ſtood by ſuch as ſpeak of things they underſtand not; of whom it ſhall be ſaid in the day that is approaching, that ſhall manifeſt, abundantly manifeſt, every thing of what ſort and kind it is, <hi>Friend, how cameſt thou here?</hi> And yet this is not to diſcourage, nor weaken the hands of any, whoſe Teſtimony in Power and Truth hath been, or may be for the Life, the Love that is ſtronger than Death, that overcometh all things, and is indeed the more excellent, more perfect Way, which Day ap<g ref="char:EOLhyphen"/>proacheth to be yet more abundantly manifeſted. But oh who may, what may abide that Day of Love? Oh the dreadful Diſappointments to the <hi>mind</hi> that looks out for it in an imagination, in a pleaſant dream! For the Love, the Love is to the Seed; and Judgment, Judg<g ref="char:EOLhyphen"/>ment deep, is the Cup of Judgement to the Tranſgreſ<g ref="char:EOLhyphen"/>ſor, to the airy lofty mind, to the Land of graven ima<g ref="char:EOLhyphen"/>ges, the wiſdom from below, and all that will compre<g ref="char:EOLhyphen"/>hend
+<pb n="4" facs="tcp:150304:3"/> the things of God therein; and ſo that excellent thing, <hi>(Love)</hi> while the mind is exalted above the Mea<g ref="char:EOLhyphen"/>ſure, the Seed, the Life, which is <hi>Love</hi> in the <hi>particular:</hi> The Day of Love, even the more abundant Manifeſta<g ref="char:EOLhyphen"/>tion of it, ſhall be, ſhall be (even becauſe a Day of Love) dreadful, dreadful, terrible to the tranſgreſſor, to the mind joyned to Idols of fleſh or ſpirit: for the God of Love, even the God of Love, hath no union with the tranſgreſſor in any; neither can any of the Children of Love (in whom is the Life, the Love it ſelf, in Power and Truth, not in an airy ſound of words) have union, compliance, touch the unclean thing or ſpirit at home or abroad, though their place may be to be exerciſed in all love and meekneſs, tenderneſs, compaſſion towards all the ſons and daughters of men, even the worſt of men, whither they have been to them upon the account of friends or enemies, to be unwilling to ſee the evil in any, and are ready to forget and forgive; and what<g ref="char:EOLhyphen"/>ever their way towards any may be in the will of their Life, their Law-giver, whoſe they are, and not their own, neither in the cruel nor affectionate part, but wholly to be exerciſed in obedience to the Life, that is, Love in all patience and forbearance towards all, whe<g ref="char:EOLhyphen"/>ther in that which (as to appearance, to that which looks out, and ſo knows not what the righteous Judgement is, may look as tender or harſh, though it were to pluck any out by the hair of the head, hating even the gar<g ref="char:EOLhyphen"/>ment ſpotted with the fleſh.</p>
+               <p>Now the place of Love is to be ſubject, ſubject, to be exerciſed in ſubjection, all ſubjection, to the Life which is Love it ſelf; to keep back with all patience and forbearance, not to move, but as the Life, the Love
+<pb n="5" facs="tcp:150304:3"/> goes before, of a ready mind in the will of the Life, and not before, to be exerciſed in the Manifeſtation, even in the Manifeſtation of tenderneſs towards all, even towards all and every one, and in that which may have an harſh appearance, to keep back till it may not be forborn without diſobedience, and even then to do it in the Croſs, with all tenderneſs and compaſſion to<g ref="char:EOLhyphen"/>wards the <hi>particular,</hi> or <hi>particulars:</hi> This is ſafe for all; but the proper Acceptation of the diſpenſation of Love, is the <hi>Life</hi> that is Love, the Spirit of Love, which is a conſuming fire againſt the Adverſary, the tranſgreſ<g ref="char:EOLhyphen"/>ſor in the Root and all the Branches; for the good and edification, and not for the deſtruction of the Creation, nor any part of it, where the mind is not ſo joyned to iniquity, deceit, that after its lovers it will go, where, I ſay, the Life, the Love, the Spirit of Love, is in the dominion, ruling, ſwaying the <hi>particular;</hi> and ſo the Veſ<g ref="char:EOLhyphen"/>ſel in the ſubjection to the Life, the Love, every ſtep, whether (in appearance) tender, ſmooth, or otherwiſe, is in the diſpenſation of love, is in the acceptation of the life, the love, being done in its motion, and obedience thereunto: And this is the Path of Life, the Path of Love, the un-erring certain ſafe Path, that ſhall hold out to the end, when the young men, the youths, ſhall faint and utterly fail, and the fat and the ſtrong, fed with judgement, ſuch as mind the Life, the Juſtification, the Leading, the Acceptation, the motion of the Life, and that only in their own particular, to be led by the Spirit of Love, to follow him in his motion whither he leads, to know and be ſubject thereunto, what-ever it be, here to ſtand for ever: this is the place of ſafety, and there is not another: and thus the Diſpenſation of
+<pb n="6" facs="tcp:150304:4"/> Love (as the ſpirit of love) is over all, the mind joyn<g ref="char:EOLhyphen"/>ed, ſubject thereunto, in the particular Meaſure. And all high pretences to love out of this Path, is a <hi>Judas</hi>-kiſs, yea, it is ſo, the mouth of the Lord of Hoaſts, the God of Love hath ſpoken it.</p>
+               <closer>
+                  <dateline>
+                     <date>11th <hi>of the</hi> 7th <hi>Month,</hi> 63.</date>
+                  </dateline>
+                  <signed>J. S,</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>TO all the Children of the day I thus write. Let not Iſrael, let not any in Iſrael, no not him or them that may be as King or Heads in Iſrael, deſpiſe this Voice of Love, becauſe of the way of its conveyance. He is Soveraign that rules in Heaven and Earth, and may do what he pleaſeth, may imploy, lay by whom he pleaſ<g ref="char:EOLhyphen"/>eth, and who may ſay to him, <hi>What doſt thou?</hi> the place of all, the proper place of all in this day and hour eſ<g ref="char:EOLhyphen"/>pecially, is to be low and lowly, and to keep low, and yet not to be dejected or diſcouraged, nor to come under, but to be exerciſed in all patience and forbea<g ref="char:EOLhyphen"/>rance, in all manner of patience and forbearance; not to be forward nor raſh, nor haſty in any thing, though it were but to bait the Aſſe; for the time, the ſeaſon, may fall out to be, that the Aſſe, even the Aſſe, may be helpful to inſtruct the Prophet, and yet not underſtand what it ſaith: yea, the King of <hi>Egypt</hi> may be imploy<g ref="char:EOLhyphen"/>ed to convey the Word of the Lord to the King of <hi>Ju<g ref="char:EOLhyphen"/>dah,</hi> yea, to <hi>Joſiah</hi> King of <hi>Judah;</hi> and becauſe he heeded it not, though thus conveyed, he fell, and great was the Lamentation, even that of the valley of <hi>Me<g ref="char:EOLhyphen"/>giddon.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <date>4th <hi>of the</hi> 7th <hi>Month,</hi> 63.</date>
+                  </dateline>
+                  <signed>J. S.</signed>
+               </closer>
+               <epigraph>
+                  <q>Bleſſed, bleſſed are the poor in ſpirit, they dwell in the do<g ref="char:EOLhyphen"/>minion, the Kingdom that cannot be ſhaken.</q>
+               </epigraph>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:150304:4"/>
+               <head>To all the World.</head>
+               <p>KNow ye, that the time of your viſitation from on High is come: <hi>Woe, Woe, Woe</hi> to the mind that loves to do wickedly: A <hi>Conſumption,</hi> a <hi>Conſumption</hi> from the Lord God is determined; root and branch, high and low, not a hoof ſpared; the mind joyned to ini<g ref="char:EOLhyphen"/>quity, muſt be, ſhall be cut off ſuddenly, broken with a great breach.</p>
+               <p>Say to the Righteous, that which breathes after righ<g ref="char:EOLhyphen"/>teouſneſs, ſay to ſuch, <hi>It ſhall be well;</hi> that which longs, waits to be delivered, ſuch ſhall be delivered, though deep the Cup of Judgement. The Tranſgreſſor may not live, muſt be burnt up, ſlain, not a hoof ſpared; and all the ſingle-hearted will ſay, <hi>Amen.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <date>27th. <hi>of the</hi> 7th <hi>Month,</hi> 63.</date>
+                  </dateline>
+                  <signed>J. S.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>UZah, Uzah,</hi> remember <hi>Uzah,</hi> let all the Children of the Day remember <hi>Uzah,</hi> to exerciſe all Pati<g ref="char:EOLhyphen"/>ence and Forbearance, not to be forward nor raſh, were it in keeping up the Ark, even when this Oxen that carry it, ſtumble: Oh the ſafety in exerciſing all Patience and Forbearance! in keeping back in this day and hour eſpecially. Out of all things ſink down, cove<g ref="char:EOLhyphen"/>red in the Life and Subſtance, not moving but in the fear, exerciſing much patience and forbearance, till the Command be ſo manifeſt, that it may not be forborn; hear is ſtrength, dominion, preſervation, out of con<g ref="char:EOLhyphen"/>fuſion, nothing hurt, every thing brought forth in its
+<pb n="8" facs="tcp:150304:5"/> ſeaſon: The Lilly that toils not, ſpins not, cloathed with abundant Glory; yea, who are preſerved here? Lo, <hi>lowly,</hi> out of all things, exerciſed in all patience and forbearance, mount up with Eagles wings, run, and are not weary, walk, and faint not, bring forth their fruit in ſeaſon. Oh! Oh! the neceſſity, the uſefulneſs, the advantage every way of Patience, Forbearance, the being exerciſed in all Long-ſuffering, Patience &amp; For<g ref="char:EOLhyphen"/>bearance, all manner of Forbearance, in this day and hour eſpecially, which will be found an hour and pow<g ref="char:EOLhyphen"/>er of great darkneſs, ſuch as have been none before it, nor ſhall be none after it.</p>
+               <closer>
+                  <dateline>
+                     <date>28th <hi>of the</hi> 7th <hi>Month,</hi> 63.</date>
+                  </dateline>
+                  <signed>J. Suintoune.</signed>
+               </closer>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
